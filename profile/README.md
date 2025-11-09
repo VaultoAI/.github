@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vaulto AI
+# Shaping the future of investing
 
 ![Vaulto AI](https://img.shields.io/badge/Vaulto-AI-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
