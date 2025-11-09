@@ -2,7 +2,7 @@
 
 <img src="https://search.vaulto.ai/vaulto-dark.png" alt="Vaulto AI Logo" width="200"/>
 
-## Shaping the future of investing
+# Shaping the future of investing
 
 ![Vaulto AI](https://img.shields.io/badge/Vaulto-AI-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
