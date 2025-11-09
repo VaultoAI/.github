@@ -8,12 +8,6 @@
 
 **Building the world's most secure stablecoin and private investing infrastructure**
 
----
-
-### 🌐 [Website](https://www.vaulto.ai) • 📚 [Documentation](https://docs.vaulto.ai) • 💬 [Support](mailto:support@vaulto.ai)
-
----
-
-*Connecting Information, Assets, and Capital*
+[Website](https://www.vaulto.ai) • [Documentation](https://docs.vaulto.ai) • [Support](mailto:support@vaulto.ai)
 
 </div>
