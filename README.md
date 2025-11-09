@@ -8,7 +8,7 @@
 
 **Building the world's most secure stablecoin and private investing infrastructure for the future of finance**
 
-[Website](https://www.vaulto.ai) • [Documentation](#) • [Support](mailto:info@vaulto.ai)
+[Website](https://www.vaulto.ai) • [Documentation](#) • [Support](mailto:support@vaulto.ai)
 
 </div>
 
@@ -551,7 +551,7 @@ We welcome contributions to the Vaulto AI platform! Please follow these guidelin
 
 ### Contact Information
 
-- **Email**: info@vaulto.ai
+- **Email**: support@vaulto.ai
 - **Address**: 2108 N ST STE N, Sacramento, CA 95816
 - **Website**: [vaulto.ai](https://www.vaulto.ai)
 
@@ -595,7 +595,7 @@ Built with ❤️ by the Vaulto AI team.
 
 **Vaulto AI** - *Connecting Information, Assets, and Capital*
 
-[Website](https://www.vaulto.ai) • [GitHub](https://github.com/vaulto-ai) • [Support](mailto:info@vaulto.ai)
+[Website](https://www.vaulto.ai) • [GitHub](https://github.com/vaulto-ai) • [Support](mailto:support@vaulto.ai)
 
 </div>
 
