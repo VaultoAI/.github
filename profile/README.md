@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/VaultoAI.png" alt="Vaulto AI Logo" width="200"/>
+<img src="https://search.vaulto.ai/vaulto-dark.png" alt="Vaulto AI Logo" width="200"/>
 
 # Shaping the future of investing
 
