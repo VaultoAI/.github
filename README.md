@@ -14,13 +14,13 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Platform Components](#platform-components)
-  - [🔍 Vaulto Search](#-vaulto-search)
-  - [🔄 Vaulto Swap](#-vaulto-swap)
-  - [📊 Vaulto Holdings](#-vaulto-holdings)
+  - [Vaulto Search](#vaulto-search)
+  - [Vaulto Swap](#vaulto-swap)
+  - [Vaulto Holdings](#vaulto-holdings)
 - [Architecture](#architecture)
 - [Getting Started](#getting-started)
 - [Technology Stack](#technology-stack)
@@ -45,18 +45,18 @@ Vaulto AI is dedicated to building secure, compliant, and intelligent infrastruc
 
 ### Key Features
 
-✨ **Multi-Chain Support** - Ethereum, Arbitrum, Optimism, Base, and Polygon  
-🔒 **MEV Protection** - CoW Protocol integration prevents front-running  
-🤖 **AI-Driven Insights** - Real-time market analysis and recommendations  
-📈 **Professional Dashboards** - Institutional-grade analytics and reporting  
-🔐 **Secure Authentication** - WalletConnect integration with SIWE standards  
-💼 **Institutional Solutions** - Custom limits, treasury tools, and APIs  
+**Multi-Chain Support** - Ethereum, Arbitrum, Optimism, Base, and Polygon  
+**MEV Protection** - CoW Protocol integration prevents front-running  
+**AI-Driven Insights** - Real-time market analysis and recommendations  
+**Professional Dashboards** - Institutional-grade analytics and reporting  
+**Secure Authentication** - WalletConnect integration with SIWE standards  
+**Institutional Solutions** - Custom limits, treasury tools, and APIs  
 
 ---
 
 ## Platform Components
 
-### 🔍 Vaulto Search
+### Vaulto Search
 
 **AI-Powered Market Intelligence & Analytics Platform**
 
@@ -64,25 +64,25 @@ Vaulto Search is an advanced analytics and search tool that provides real-time m
 
 #### Key Features
 
-- **📊 Real-Time Analytics Dashboard**
+- **Real-Time Analytics Dashboard**
   - Comprehensive analytics file management system
   - Google Drive integration for document storage and retrieval
   - Organized analytics by category (Landing, Search, Swap)
   - Real-time file synchronization and updates
 
-- **🔎 Intelligent Search Capabilities**
+- **Intelligent Search Capabilities**
   - Advanced search functionality across analytics data
   - Filter and categorize analytics files
   - Quick access to historical data and reports
   - Export and sharing capabilities
 
-- **📈 Market Intelligence**
+- **Market Intelligence**
   - Real-time market data aggregation
   - Performance metrics and trend analysis
   - Customizable analytics views
   - Data visualization tools
 
-- **🔐 Secure Access**
+- **Secure Access**
   - WalletConnect authentication integration
   - SIWE (Sign-In with Ethereum) standard compliance
   - Server-side signature verification
@@ -110,7 +110,7 @@ Vaulto Search is an advanced analytics and search tool that provides real-time m
 
 ---
 
-### 🔄 Vaulto Swap
+### Vaulto Swap
 
 **Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
 
@@ -118,31 +118,31 @@ Vaulto Swap is a decentralized exchange protocol that enables seamless swapping 
 
 #### Key Features
 
-- **🌍 Multi-Chain RWA Trading**
+- **Multi-Chain RWA Trading**
   - Trade tokenized US Treasuries, equities, commodities, and ETFs
   - Support for Ethereum, Arbitrum, Optimism, Base, and Polygon
   - Cross-chain asset accessibility
   - Unified trading interface across networks
 
-- **🛡️ MEV Protection**
+- **MEV Protection**
   - CoW Protocol integration prevents front-running
   - Protection against sandwich attacks
   - Batch auction execution for optimal pricing
   - Intent-based trading system
 
-- **💱 Asset Support**
+- **Asset Support**
   - **xStocks**: 60+ tokenized stocks (TSLAx, AAPLx, GOOGLx, AMZNx, MSFTx, etc.)
   - **Stablecoins**: USDC, USDT, DAI
   - **Crypto Assets**: WBTC, WETH
   - **RWAs**: Tokenized commodities, treasuries, and ETFs
 
-- **⚡ Instant Execution**
+- **Instant Execution**
   - Real-time price updates (10-second refresh)
   - Price impact calculation
   - Slippage protection
   - Fast transaction settlement
 
-- **📱 Mobile-First Design**
+- **Mobile-First Design**
   - Responsive interface optimized for all devices
   - Touch-optimized controls
   - Sleek, modern UI with smooth animations
@@ -161,11 +161,11 @@ Vaulto Swap is a decentralized exchange protocol that enables seamless swapping 
 
 | Network | Chain ID | Status |
 |---------|----------|--------|
-| Ethereum | 1 | ✅ Active |
-| Arbitrum | 42161 | ✅ Active |
-| Optimism | 10 | ✅ Active |
-| Base | 8453 | ✅ Active |
-| Polygon | 137 | ✅ Active |
+| Ethereum | 1 | Active |
+| Arbitrum | 42161 | Active |
+| Optimism | 10 | Active |
+| Base | 8453 | Active |
+| Polygon | 137 | Active |
 
 #### Use Cases
 
@@ -181,7 +181,7 @@ Vaulto Swap is a decentralized exchange protocol that enables seamless swapping 
 
 ---
 
-### 📊 Vaulto Holdings
+### Vaulto Holdings
 
 **Professional Ethereum Vault Dashboard & Analytics Platform**
 
@@ -189,26 +189,26 @@ Vaulto Holdings provides institutional-grade solutions for managing digital asse
 
 #### Key Features
 
-- **📈 Real-Time Metrics Dashboard**
+- **Real-Time Metrics Dashboard**
   - **ETH Net Exposure**: Real-time leveraged exposure tracking with daily change indicators
   - **Total Leverage**: Current leverage ratio with daily and weekly change tracking
   - **Liquidation Price**: Risk monitoring with visual danger zone indicators
   - **Vault NAV**: Net Asset Value in both USD and ETH with performance tracking
   - **Total Vault Value**: Complete portfolio value overview
 
-- **📊 Performance Analytics**
+- **Performance Analytics**
   - **Ethereum Price Performance**: Real-time ETH price chart with 365-day historical data
   - **Daily/30-Day Returns**: Short-term performance metrics
   - **Real-time ETH Price Feed**: Live price updates from CoinGecko API
   - **Historical Charts**: Interactive price visualization with Recharts
 
-- **⚠️ Risk Management**
+- **Risk Management**
   - **Volatility Metrics**: 30-day and 1-year volatility tracking
   - **VaR (Value at Risk)**: 95% and 99% confidence intervals
   - **Open Interest**: Position monitoring and tracking
   - **Liquidation Risk**: Real-time distance from liquidation price calculations
 
-- **🎨 Professional Design**
+- **Professional Design**
   - **MicroStrategy-inspired**: Clean, data-forward design aesthetic
   - **Responsive Layout**: Optimized for desktop and mobile devices
   - **Real-time Updates**: Auto-refreshing data with timestamps
@@ -420,18 +420,18 @@ NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=your_project_id
 
 ### Security Features
 
-🔒 **Multi-Layer Authentication**
+**Multi-Layer Authentication**
 - WalletConnect v2 integration
 - SIWE (Sign-In with Ethereum) standard
 - Server-side signature verification
 - Secure session management with HTTP-only cookies
 
-🛡️ **MEV Protection**
+**MEV Protection**
 - CoW Protocol integration prevents front-running
 - Batch auction execution
 - Intent-based trading system
 
-🔐 **Data Security**
+**Data Security**
 - Encrypted wallet creation
 - Secure key storage recommendations
 - Non-custodial architecture
@@ -580,7 +580,7 @@ This project contains proprietary software for Vaulto AI. All rights reserved.
 
 ## Acknowledgments
 
-Built with ❤️ by the Vaulto AI team.
+Built by the Vaulto AI team.
 
 **Special Thanks:**
 - Next.js team for the amazing framework
