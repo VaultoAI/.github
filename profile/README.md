@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/VaultoAI.png" alt="Vaulto AI Logo" width="200"/>
+
 # Shaping the future of investing
 
 ![Vaulto AI](https://img.shields.io/badge/Vaulto-AI-blue?style=for-the-badge)
