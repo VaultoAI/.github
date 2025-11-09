@@ -1,7 +1,6 @@
 <div align="center">
 
 # Vaulto AI
-
 ![Vaulto AI](https://img.shields.io/badge/Vaulto-AI-blue?style=for-the-badge&logo=ethereum)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
