@@ -4,7 +4,7 @@
 
 **<span style="font-size: 1.5em;">Shaping the future of investing</span>**
 
-<span style="font-size: 0.9em;">[Site](https://www.vaulto.ai) &nbsp; [Docs](https://docs.vaulto.ai) &nbsp; [Help](mailto:support@vaulto.ai)</span>
+<span style="font-size: 0.9em;">[Website](https://www.vaulto.ai) &nbsp; &nbsp; [Documentation](https://docs.vaulto.ai) &nbsp; &nbsp; [Support](mailto:support@vaulto.ai)</span>
 
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 
