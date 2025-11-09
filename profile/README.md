@@ -4,10 +4,8 @@
 
 **<span style="font-size: 1.5em;">Shaping the future of investing</span>**
 
-![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
-
-**Secure stablecoin and private investing infrastructure**
-
 [Website](https://www.vaulto.ai) • [Documentation](https://docs.vaulto.ai) • [Support](mailto:support@vaulto.ai)
+
+![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 
 </div>
