@@ -547,6 +547,10 @@ We welcome contributions to the Vaulto AI platform! Please follow these guidelin
 
 ---
 
+## Contributing
+
+For contribution guidelines, see CONTRIBUTING.md in individual repositories or contact VaultoAI engineering.
+
 ## Support
 
 ### Contact Information
